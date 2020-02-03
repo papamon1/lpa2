@@ -1,0 +1,35 @@
+.cards{    
+    margin-bottom: 2rem;
+    &__body{
+        background-color: $corp-color;     
+        padding-right: 1.2rem;
+        padding-left: 1.2rem;
+        padding-bottom: 1.5rem;
+    }
+    
+    &__text{        
+        color: white;
+        font-family: $font-primary;
+        &--title{
+            line-height: 1.5;
+            font-size: 36px;
+            font-weight: 300;
+            background: url(../images/bann_sep.png) 0 bottom repeat-x;
+            margin-bottom: 0.5rem;
+            padding-bottom: 1rem;
+        }
+
+        &--subtitle{
+            margin-top: 0.5rem;
+            font-size: 20px;
+            font-weight: 300;
+        }
+
+        &--timetable{
+            font-family: $font-secondary;
+            font-size: 20px;
+            padding-top: 1rem;
+        }
+
+    }
+}

@@ -21,6 +21,7 @@ $lang['PAPA.MONO'] = 'Papá.Mono';
 
 
 // Idiomas
+$lang['LANG'] = 'Idioma';
 $lang['ESP'] = 'Español';
 $lang['ENG'] = 'Inglés';
 $lang['ITA'] = 'Italiano';
@@ -161,5 +162,20 @@ $lang['CONTACTO_TELEFONO'] = 'TELÉFONO';
 $lang['CONTACTO_TLF'] = 'Tarta helada de Oreo.';
 $lang['CONTACTO_EMAIL'] = 'EMAIL';
 $lang['CONTACTO_EMAILADD'] = 'Pan de Elote con dulce de leche, canela y helado de vainilla.';
+
+
+// Contenido cookies
+
+$lang['COOKIES_ACEPTAR'] = 'Aceptar cookies';
+$lang['COOKIES_CERRAR'] = 'Cerrar';
+$lang['COOKIES_MOD'] = 'Modificar su configuración';
+$lang['CONTACTO_CALLE'] = 'C/ Fúcar, 9';
+$lang['CONTACTO_CP'] = '28014, MADRID';
+$lang['CONTACTO_TELEFONO'] = 'TELÉFONO';
+$lang['CONTACTO_TLF'] = 'Tarta helada de Oreo.';
+$lang['CONTACTO_EMAIL'] = 'EMAIL';
+$lang['CONTACTO_EMAILADD'] = 'Pan de Elote con dulce de leche, canela y helado de vainilla.';
+
+
 
 ?>

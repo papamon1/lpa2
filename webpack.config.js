@@ -3,7 +3,8 @@ const path = require('path');
 module.exports = {
     watch: true,
     entry: [
-        './src/lpa.js',
+		'./src/js/lpa.js',
+		'./src/js/lightbox-1.0.0.min.js',
         './src/scss/lpa.scss'        
     ],
     output: {

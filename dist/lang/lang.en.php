@@ -21,6 +21,7 @@ $lang['PAPA.MONO'] = 'Papá.Mono';
 
 
 // Idiomas
+$lang['LANG'] = 'Language';
 $lang['ESP'] = 'Spanish';
 $lang['ENG'] = 'English';
 $lang['ITA'] = 'Italian';

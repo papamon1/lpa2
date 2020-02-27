@@ -1,0 +1,13 @@
+.policies{
+    
+    &__text--title{
+        font-family: $font-secondary;
+        font-size: 18px;
+        margin-top: 5rem;
+    }
+
+    &__text--content{
+        font-family: $font-secondary;
+        font-size: 14px;
+    }
+}

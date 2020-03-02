@@ -31,7 +31,7 @@
                 <div class="cards__body text-center">
                     <img class="lb-js" src="images/icon2.png" alt="" data-theme="trans" data-type="image" data-path="images/icon2.png" >
                     <div class="cards__text cards__text--title text-center"><?php echo $lang["HOME_PP"]; ?></div>
-                    <a href="entrantes.php" class="cards__text cards__text--subtitle"><?php echo $lang["HOME_VPP"]; ?></a>                    
+                    <a href="hamburguesas.php" class="cards__text cards__text--subtitle"><?php echo $lang["HOME_VPP"]; ?></a>                    
                 </div>
                 <img class="img-fluid" src="images/hamburguesas/amarilla.jpg" alt="">
             </div>
@@ -40,14 +40,14 @@
                 <div class="cards__body text-center">
                     <img src="images/icon4.png" alt="">
                     <div class="cards__text cards__text--title text-center"><?php echo $lang["HOME_PG"]; ?></div>
-                    <a href="entrantes.php" class="cards__text cards__text--subtitle"><?php echo $lang["HOME_VPG"]; ?></a>                    
+                    <a href="carnes.php" class="cards__text cards__text--subtitle"><?php echo $lang["HOME_VPG"]; ?></a>                    
                 </div>
             </div>
             <div class="col-md-3 cards">                
                 <div class="cards__body text-center">
                     <img src="images/icon3.png" alt="">
                     <div class="cards__text cards__text--title text-center"><?php echo $lang["HOME_PS"]; ?></div>
-                    <a href="entrantes.php" class="cards__text cards__text--subtitle"><?php echo $lang["HOME_VPS"]; ?></a>                    
+                    <a href="postres.php" class="cards__text cards__text--subtitle"><?php echo $lang["HOME_VPS"]; ?></a>                    
                 </div>
                 <img class="img-fluid" src="images/postres/brownie.jpg" alt="">
             </div>            

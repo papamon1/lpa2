@@ -123,17 +123,7 @@
                         <p class="card-text"><?php echo $lang["HAMBUR_IMBATIBLE_D"]; ?></p>
                     </div>            
                 </div>
-            </div>
-            
-            <div class="col-md-4">
-                <div class="card lb-js dishes" data-theme="trans" data-type="image" data-path="images/hamburguesas/chida.jpg">
-                    <img class="card-img-top" src="images/hamburguesas/chida.jpg" alt="">
-                    <div class="card-body">
-                        <h5 class="card-title"><?php echo $lang["HAMBUR_CHIDA"]; ?></h5>
-                        <p class="card-text"><?php echo $lang["HAMBUR_CHIDA_D"]; ?></p>
-                    </div>            
-                </div>
-            </div>     
+            </div>                        
 
             <div class="col-md-4">
                 <div class="card lb-js dishes" data-theme="trans" data-type="image" data-path="images/hamburguesas/amarilla.jpg">

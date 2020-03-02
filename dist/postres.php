@@ -58,17 +58,7 @@
                         <p class="card-text"><?php echo $lang["POSTRES_ELOTE_D"]; ?></p>
                     </div>            
                 </div>
-            </div>
-            
-            <div class="col-md-4">
-                <div class="card lb-js dishes" data-theme="trans" data-type="image" data-path="images/postres/tatinmanzana.jpg">
-                    <img class="card-img-top" src="images/postres/tatinmanzana.jpg" alt="">
-                    <div class="card-body">
-                        <h5 class="card-title"><?php echo $lang["POSTRES_TATIN"]; ?></h5>
-                        <p class="card-text"><?php echo $lang["POSTRES_TATIN_D"]; ?></p>
-                    </div>            
-                </div>
-            </div>     
+            </div>   
 
             <div class="col-md-4">
                 <div class="card lb-js dishes" data-theme="trans" data-type="image" data-path="images/postres/tartatoblerone.jpg">

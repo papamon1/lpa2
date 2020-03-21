@@ -69,18 +69,24 @@
                 uso de algunos servicios ofrecidos en la misma, son	 las siguientes: 	 
         </p>   
         <ul>
-            <li>AMCV_20E8776A524455540A490D44%40AdobeOrg, lafourche	tte.com,  caduca en 1 año. </li>
-            <li>prev_pn, lafourchette.com, 	 	caduca en 1 año. </li>
-            <li>s_ev46, lafourchette.com, 	 	caduca en 1 año. </li>
-            <li>s_ev80, lafourchette.com, 	 	caduca en 1 año. </li>
-            <li>s_ev81, lafourchette.com, 	 	caduca en 1 año.</li>
-            <li>s_ev82, lafourchette.com, 	 	caduca en 1 año. </li>
-            <li>s_ev83, lafourchette.com, 	 	caduca en 1 año. </li>
-            <li>s_ev84, lafourchette.com, 	 	caduca en 1 año. </li>
-            <li>s_tbm, lafourchette.com, 	 	caduca en 1 año. </li>
-            <li>__utma, lafourchette.com, 	 	caduca en 1 año. </li>
-            <li>__utmz, lafourchette.com, 	 	caduca en 6 meses. </li>
-            <li>NID, google.com, 	 	caduca en 6 meses	</li>
+            <li><strong>AMCV_20E8776A524455540A490D44%40AdobeOrg, lafourchette.com</strong>, es un cookie de Adobe Analytics para hacer el tracking. Hace parte de la categoría Performance/Analytics.  caduca en 1 año. </li>
+            <li><strong>prev_pn, lafourchette.com</strong>, es un cookie de propriedad de LaFourchette que viene con el widget, es de tipo técnico y sirve simplemente para volver a la página de antes 	 	caduca en 1 año. </li>
+            <li><strong>__utma, lafourchette.com</strong>, es propio de Google Analytics y hacen igualmente parte de la categoría Performance/Analytics, pero sirven para el Tracking. Su duración puede variar y esto explica el por qué duran respectivamente 1 año y 6 meses.caduca en 1 año. </li>
+            <li><strong>__utmz, lafourchette.com</strong>, es propio de Google Analytics y hacen igualmente parte de la categoría Performance/Analytics, pero sirven para el Tracking. Su duración puede variar y esto explica el por qué duran respectivamente 1 año y 6 meses.caduca en 1 año.caduca en 6 meses. </li>
+            <li><strong>NID, google.com</strong>, Es un cookie de Google. Aquí la explicación: Most of users will have a preferences cookie called ‘NID’ in their browsers. A browser sends this cookie with requests to Google’s sites. The NID cookie contains a unique ID Google uses to remember your preferences and other information, such as your preferred language (e.g. English), how many search results you wish to have shown per page (e.g. 10 or 20), and whether or not you wish to have Google’s SafeSearch filter turned on."caduca en 6 meses	</li>
+        </ul>
+
+        <p>
+                Las siguiente cookies hacen parte de la categoría Performance/analytics y están en cuanto la plataforma usa Adobe Analytics a través del iFrame de LaFourchette. El software Adobe Analytics ayuda al restaurante a recoger y analizar el tráfico de la página, como por ejemplo el número de los visitantes, para poder analizar en un segundo momento en terminos de marketing. Estos cookies duran un año.: 	 
+        </p>   
+        <ul>
+            <li><strong>s_ev46, lafourchette.com</strong>,caduca en 1 año. </li>
+            <li><strong>s_ev80, lafourchette.com</strong>, caduca en 1 año. </li>
+            <li><strong>s_ev81, lafourchette.com</strong>, caduca en 1 año.</li>
+            <li><strong>s_ev82, lafourchette.com</strong>, caduca en 1 año. </li>
+            <li><strong>s_ev83, lafourchette.com</strong>, caduca en 1 año. </li>
+            <li><strong>s_ev84, lafourchette.com</strong>, caduca en 1 año. </li>
+            <li><strong>s_tbm, lafourchette.com</strong>, caduca en 1 año. </li>            
         </ul>
         
         <p class="policies__text--title"><h4 class="mt-4">Aceptación de la política de cookies</h4></p>

@@ -3,7 +3,7 @@
       <div>
           <div class="footer__text">
               La Puerta Amarilla 
-              <span class="footer__text--small"> © 2020 | <a href="privacy.php" target="_">Privacy Policy</a></span>
+              <span class="footer__text--small"> © 2020 | <a href="privacy.php" target="_"><?php echo $lang["PRIVACIDAD"]; ?></a> | <a href="cookies.php" target="_"><?php echo $lang["COOKIES"]; ?></a></span>
           </div>
           <div class="footer__text--small">
               Site designed by Papa.Mono

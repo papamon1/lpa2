@@ -15,7 +15,8 @@ $lang['HEADING'] = 'Heading';
 
 // Común
 $lang['LPA'] = 'La Puerta Amarilla';
-$lang['PPRIVACIDAD'] = 'Política de Privacidad';
+$lang['PRIVACIDAD'] = 'Política de Privacidad';
+$lang['COOKIES'] = 'Política de cookies';
 $lang['SITE_DESIGNED'] = 'Sitio diseñado por';
 $lang['PAPA.MONO'] = 'Papá.Mono';
 
@@ -166,6 +167,7 @@ $lang['CONTACTO_EMAILADD'] = 'Pan de Elote con dulce de leche, canela y helado d
 
 // Contenido cookies
 
+$lang['COOKIES_COOKIES'] = 'Cookies';
 $lang['COOKIES_ACEPTAR'] = 'Aceptar cookies';
 $lang['COOKIES_CERRAR'] = 'Cerrar';
 $lang['COOKIES_MOD'] = 'Modificar su configuración';

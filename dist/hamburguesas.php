@@ -42,15 +42,17 @@ include_once 'common.php';
                     </div>            
                 </div>
             </div>
+
             <div class="col-md-4">
-                <div class="card lb-js dishes" data-theme="trans" data-type="image" data-path="images/hamburguesas/blt.jpg">
-                    <img class="card-img-top" src="images/hamburguesas/blt.jpg" alt="">
+                <div class="card lb-js dishes" data-theme="trans" data-type="image" data-path="images/hamburguesas/amarilla.jpg">
+                    <img class="card-img-top" src="images/hamburguesas/amarilla.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title"><?php echo $lang["HAMBUR_BLT"]; ?></h5>
-                        <p class="card-text"><?php echo $lang["HAMBUR_BLT_D"]; ?></p>
+                        <h5 class="card-title"><?php echo $lang["HAMBUR_AMARILLA"]; ?></h5>
+                        <p class="card-text"><?php echo $lang["HAMBUR_AMARILLA_D"]; ?></p>
                     </div>            
                 </div>
-            </div>                      
+            </div>   
+                            
         </div>
 
         <div class="row mt-4 mb-4">
@@ -126,17 +128,7 @@ include_once 'common.php';
                         <p class="card-text"><?php echo $lang["HAMBUR_IMBATIBLE_D"]; ?></p>
                     </div>            
                 </div>
-            </div>                        
-
-            <div class="col-md-4">
-                <div class="card lb-js dishes" data-theme="trans" data-type="image" data-path="images/hamburguesas/amarilla.jpg">
-                    <img class="card-img-top" src="images/hamburguesas/amarilla.jpg" alt="">
-                    <div class="card-body">
-                        <h5 class="card-title"><?php echo $lang["HAMBUR_AMARILLA"]; ?></h5>
-                        <p class="card-text"><?php echo $lang["HAMBUR_AMARILLA_D"]; ?></p>
-                    </div>            
-                </div>
-            </div>                    
+            </div>                                                     
         </div>  
     </section>
     
